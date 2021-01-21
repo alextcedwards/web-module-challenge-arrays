@@ -46,7 +46,7 @@ Use the copy function below to do the following:
 */
 
 function copy(array) {
-  return array;
+  return [...array];
 }
 
 /*🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 2: 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 
